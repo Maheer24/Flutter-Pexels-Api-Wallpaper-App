@@ -1,16 +1,13 @@
-# pixel
+# Pixel
 
-A new Flutter project.
+Wallpaper App developed in Flutter using Pexels API
 
-## Getting Started
+## Packages Used
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+google_fonts: ^5.1.0
+http: ^1.1.0
+flutter_staggered_grid_view: ^0.7.0
+image_gallery_saver: '^2.0.3'
+permission_handler: ^10.4.3
+dio: ^5.3.2
+cached_network_image: ^3.2.3
